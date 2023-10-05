@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\BangThongKe_DATA_REPORT\LapTrinhWinDows\lab3\obj\Debug\OpenHinhAnh.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BangThongKe_DATA_REPORT\LapTrinhWinDows\lab3\obj\Debug\lab3.FormMoAnh.resources
+C:\Users\Admin\Desktop\BangThongKe_DATA_REPORT\LapTrinhWinDows\lab3\obj\Debug\lab3.FormXuatAnh.resources
+C:\Users\Admin\Desktop\BangThongKe_DATA_REPORT\LapTrinhWinDows\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\Admin\Desktop\BangThongKe_DATA_REPORT\LapTrinhWinDows\lab3\obj\Debug\OpenHinhAnh.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BangThongKe_DATA_REPORT\LapTrinhWinDows\lab3\obj\Debug\OpenHinhAnh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BangThongKe_DATA_REPORT\LapTrinhWinDows\lab3\obj\Debug\lab3.exe
+C:\Users\Admin\Desktop\BangThongKe_DATA_REPORT\LapTrinhWinDows\lab3\obj\Debug\lab3.pdb
